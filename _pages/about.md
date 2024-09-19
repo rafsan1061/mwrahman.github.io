@@ -8,6 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-[Curriculum Vitae (CV)](https://ralobos.github.io/files/CV_RLOBOS_OCT_2023.pdf)
+[Curriculum Vitae (CV)](https://rafsan1061.github.io/files/files/Wahidur Rahman_CV.pdf)
 
-I'm a postdoctoral researcher working under the guidance of Prof. Jeffrey Fessler, Prof. Douglas Noll, and Prof. Zhongming Liu at the University of Michigan. I completed my PhD studies at the University of Southern California working under the supervision of Prof. Justin Haldar.  My research interests include signal and image processing, magnetic resonance imaging (MRI), computational imaging, inverse problems, and the connections between machine learning and constrained image reconstruction.
+After passing Secondary School Certificate (SSC) exam from Pabna Zilla School in 2013 and Higher Secondary Certificate (HSC) exam from Notre Dame College, Dhaka in 2015; I enrolled myself in the Department of Biomedical Engineering at Bangladesh University of Engineering and Technology (BUET). I completed my undergraduate degree (B.Sc. in Biomedical Engineering) with honors from here in February 2021 and then joined the same department as an adjunct faculty on 8th March 2021.
+
+I joined the department as a full-time faculty (lecturer) on 31 August 2021 and currently working here. I am also currently enrolled in the master's course- M.Sc. in BME (ongoing) at the same department. As a part of my regular research and thesis work, I work on synthesizing and using nanoparticles to for various biomedical applications at Bioinnovation Research Group.
+
+My research interest includes-
+
+Experimental Soft Tissue (IVD, Tendon, Ligament, Cartilage, Meniscus) and Hard Tissue (Bone, Dental) Regenerative Medicine and Mechanics
+
+Polymeric Biomaterials and Bio-nanomaterials
+
+Tissue Engineering
+
+Orthopedics and Dental Tissue Regeneration
+
+3D Printing and Bio-ink
+
+Stem Cells
+
+I am an avid traveler. Whenever I have money and time, I just pack my bags and hit the road preferably with my friends. I am also a huge fan of the Real Madrid Football Club, Rafael Nadal (Tennis player), and Luka Dončić (Basketball player of the NBA team- Dallas Mavericks). During my leisure time, I enjoy reading books, listening to music on Spotify, and watching travel vlogs.
